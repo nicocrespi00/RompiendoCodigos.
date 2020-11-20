@@ -1,0 +1,31 @@
+body{
+    background: black;
+    margin: 0px auto;
+    color: white;
+}
+
+/*Inicio del Main */
+section{
+    width: 80%;
+    margin: 0px auto;
+    margin-top: 20px;
+}
+.tarjetasPersonales{
+    width: 300px;
+    height: auto;
+    border: 1px solid gray;
+    margin: 15px;
+    float: left; 
+}
+
+.tarjetasPersonales h2 {
+    padding: 10px;
+    margin: 0px auto;
+    
+}
+.tarjetasPersonales p{
+    padding: 10px;
+    margin: 0px auto;
+}
+
+/* Fin del Main*/
